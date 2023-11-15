@@ -1,0 +1,16 @@
+# ninja log v5
+9	5713	7216964465057644	CMakeFiles/test_baza_danych.dir/sqlite/sqlite3.c.obj	b729a820b09342ef
+1	118	7217726221888622	build.ninja	f88a3aa10834bd81
+5716	5876	7217725260800512	test_baza_danych.exe	de5ed2ad8cb5a452
+2	97	7217725203077574	CMakeFiles/test_baza_danych.dir/main.c.obj	cd7e0e2ac7aca9e0
+9	5597	7217725257970730	CMakeFiles/sqlite3.dir/sqlite/sqlite3.c.obj	df00a0d73226fe37
+5597	5716	7217725259268726	libsqlite3.a	ee399f1ef879a649
+1	112	7217726221888622	build.ninja	f88a3aa10834bd81
+3	95	7217726223070952	CMakeFiles/test_baza_danych.dir/main.c.obj	cd7e0e2ac7aca9e0
+96	265	7217726224695318	test_baza_danych.exe	de5ed2ad8cb5a452
+3	103	7217727584430661	CMakeFiles/test_baza_danych.dir/main.c.obj	cd7e0e2ac7aca9e0
+103	258	7217727585938235	test_baza_danych.exe	de5ed2ad8cb5a452
+4	98	7217728721702909	CMakeFiles/test_baza_danych.dir/main.c.obj	cd7e0e2ac7aca9e0
+99	239	7217728723048650	test_baza_danych.exe	de5ed2ad8cb5a452
+3	98	7217732964315543	CMakeFiles/test_baza_danych.dir/main.c.obj	cd7e0e2ac7aca9e0
+99	207	7217732965348057	test_baza_danych.exe	de5ed2ad8cb5a452
